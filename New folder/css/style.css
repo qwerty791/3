@@ -1,0 +1,67 @@
+.logo-wrapper {
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 25px;
+	font-size: 22px;
+}
+.nav-a {
+	color: #3D58A6;
+}
+.active {
+	color: #EE4036;
+}
+header {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.article-wrapper {
+	margin-top: 40px;
+	margin-left: 30px;
+}
+.day {
+	width: 57px;
+	height: 57px;
+	background-color: #3D58A6;
+	color: white;
+	font-size: 37px;
+	padding-top: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.month {
+	font-size: 22px;
+	color: #3D58A6;
+}
+.title {
+	margin-top: 25px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.article {
+	margin-top: 20px;
+}
+.article-image {
+	vertical-align: top;
+}
+.text-wrapper {
+	display: inline-block;
+	width: 900px;
+	margin-left: 50px;
+}
+.text {
+	margin-bottom: 20px;
+}
+img{
+	width: 300px
+}
+h5 {
+	width: 500px
+	
